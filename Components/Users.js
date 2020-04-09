@@ -128,7 +128,7 @@ export default class Users extends Component {
                                closeDialog={() => { this.showDialog(false) }}>
                   </DialogInput>
                   <Card
-                      title={`   ${this.state.name}:${this.state.value}(${this.state.last})  כמות הפנים שנשרף:${this.state.burn}`}>
+                      title={`   ${this.state.name}:${this.state.value}(${this.state.last})  כמות הפעמים שנשרף:${this.state.burn}`}>
                       <View style={{ width: '100%', justifyContent: 'space-between', flexDirection: 'row', marginLeft: 0 }}>
                           <Button
                               backgroundColor='#03A9F4'
