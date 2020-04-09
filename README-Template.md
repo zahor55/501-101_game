@@ -1,3 +1,4 @@
+![](assets/k.png)
 # 501/101 card game counter
 
 501/101 is family card game like Rummikub
@@ -24,6 +25,9 @@ react native
 npm install
 ```
 ##ScreenShot
+![start page](assets/1.jpeg)
+![insert new player](assets/2.jpeg)
+![2 players page](assets/3.jpeg)
 
 ## Built With
 
