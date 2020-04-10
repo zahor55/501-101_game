@@ -3,7 +3,7 @@
 
 501/101 is family card game like Rummikub
 
-##About
+###About
 
 501/101 These are two family card games that need to be scored by participants.
 The app allows you to enter as many participants as you want and each user can add a score or reset the score from the beginning as well, as several more options.
