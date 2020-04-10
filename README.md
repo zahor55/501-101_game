@@ -25,7 +25,7 @@ react native
 ```
 npm install
 ```
-##ScreenShot
+## ScreenShot
 ![start page](assets/1.jpeg)
 ![insert new player](assets/2.jpeg)
 ![2 players page](assets/3.jpeg)
